@@ -15,6 +15,8 @@
 		ED76F1FB275E99F700DAC8C7 /* ContentViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED76F1FA275E99F700DAC8C7 /* ContentViewModel.swift */; };
 		ED76F1FD275E9B0200DAC8C7 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED76F1FC275E9B0200DAC8C7 /* Constants.swift */; };
 		ED76F1FE275E9B0800DAC8C7 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED76F1FC275E9B0200DAC8C7 /* Constants.swift */; };
+		ED76F203275EBF0E00DAC8C7 /* Helpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED76F202275EBF0E00DAC8C7 /* Helpers.swift */; };
+		ED76F204275EBF1600DAC8C7 /* Helpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED76F202275EBF0E00DAC8C7 /* Helpers.swift */; };
 		ED9678B4275E98BC000B6234 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED9678B3275E98BC000B6234 /* AppDelegate.swift */; };
 		ED9678B8275E98BC000B6234 /* ContentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED9678B7275E98BC000B6234 /* ContentViewController.swift */; };
 		ED9678BB275E98BC000B6234 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ED9678B9275E98BC000B6234 /* Main.storyboard */; };
@@ -32,6 +34,7 @@
 		ED06385D275839E00075CF34 /* Playground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Playground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		ED76F1FA275E99F700DAC8C7 /* ContentViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentViewModel.swift; sourceTree = "<group>"; };
 		ED76F1FC275E9B0200DAC8C7 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		ED76F202275EBF0E00DAC8C7 /* Helpers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Helpers.swift; sourceTree = "<group>"; };
 		ED9678B1275E98BC000B6234 /* iOSTechScreenUIKit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iOSTechScreenUIKit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED9678B3275E98BC000B6234 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		ED9678B7275E98BC000B6234 /* ContentViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentViewController.swift; sourceTree = "<group>"; };
@@ -63,6 +66,7 @@
 			children = (
 				ED06385D275839E00075CF34 /* Playground.playground */,
 				ED76F1FC275E9B0200DAC8C7 /* Constants.swift */,
+				ED76F202275EBF0E00DAC8C7 /* Helpers.swift */,
 				ED06384C275838E80075CF34 /* iOSTechScreenSwiftUI */,
 				ED9678B2275E98BC000B6234 /* iOSTechScreenUIKit */,
 				ED06384B275838E80075CF34 /* Products */,
@@ -215,6 +219,7 @@
 				ED063850275838E80075CF34 /* ContentView.swift in Sources */,
 				ED06384E275838E80075CF34 /* iOSTechScreenApp.swift in Sources */,
 				ED06385C275839010075CF34 /* ContentViewModel.swift in Sources */,
+				ED76F203275EBF0E00DAC8C7 /* Helpers.swift in Sources */,
 				ED76F1FD275E9B0200DAC8C7 /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -226,6 +231,7 @@
 				ED9678B8275E98BC000B6234 /* ContentViewController.swift in Sources */,
 				ED9678B4275E98BC000B6234 /* AppDelegate.swift in Sources */,
 				ED76F1FB275E99F700DAC8C7 /* ContentViewModel.swift in Sources */,
+				ED76F204275EBF1600DAC8C7 /* Helpers.swift in Sources */,
 				ED76F1FE275E9B0800DAC8C7 /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
