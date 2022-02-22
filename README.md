@@ -6,7 +6,7 @@ Welcome to Nearside's Code Screen starter repository!
 
 You'll need the following:
 
-1. Xcode 13.1 (13A1030d)
+1. Xcode 12+
 
 The Xcode project has both a SwiftUI and UIKit target – feel free to use whichever you're most comfortable with. There's also a Swift Playground that we'll use for the first coding exercise.
 
